@@ -1,3 +1,7 @@
+> 已废弃：MediaWiki Service 已转为 docker compose
+>
+> https://github.com/project-epb/mediawiki-service
+
 # wjghj-wiki
 
 **Wjghj Project** 网站 Wiki 站台部分的备份，该部分网站使用 MediaWiki 程序搭建，包含轻度自定义。
